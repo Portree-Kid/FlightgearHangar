@@ -1,0 +1,8 @@
+
+import javafx.scene.layout.GridPane
+
+component AircraftList {
+	GridPane {
+		//TODO Add Nodes
+	}
+}
